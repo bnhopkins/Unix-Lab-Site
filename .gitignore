@@ -1,0 +1,9 @@
+.sass-cache
+composer.lock
+cache/*
+assets/*
+logs/*
+user/data/*
+
+#OS
+.DS_Store*

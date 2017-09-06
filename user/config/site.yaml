@@ -1,0 +1,43 @@
+title: Unix Lab
+author:
+  name: Brooke Hopkins
+  email: 'joe@test.com'
+metadata:
+    description: "A student-led computer science project space at **NYU Abu Dhabi**."
+
+# Site settings
+title: UNIX Lab | NYU Abu Dhabi
+email: your-email@domain.com
+description: "A student-led computer science project space at NYU Abu Dhabi."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  -  url: "https://www.facebook.com/unixlab/"
+     icon: facebook
+  -  url: "https://twitter.com/unixlab_nyuad"
+     icon: twitter
+
+# Main Menu
+menu:
+  - text: Resources
+    link: "resources"
+  - text: Tutor Hours
+    link: "hours"
+  - text: Events
+    link: "events"
+  - text: HackAD
+    link: "hackad"
+
+footer:
+  text: "New York University Abu Dhabi's student-led computer science space created to facilitate student work and collaboration."
+  address:
+    title: LOCATION
+    lines:
+      - line: NYU Abu Dhabi
+      - line: Saadiyat Island, Abu Dhabi, UAE
+  social_title: ONLINE
+  contact:
+    title: CONTACT US
+    lines:
+      - text: unix@unixlab.com
+        url: "mailto:someone@woosite.com"

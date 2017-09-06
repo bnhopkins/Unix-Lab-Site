@@ -1,0 +1,46 @@
+<footer>
+    <div class="row">
+        <div class="six columns info">
+            <div class="footer-logo">
+                <a href="{{ base_url_absolute }}">
+                    <img src="{{ theme_url }}/images/footer-logo.png" alt="Unix Lab Logo" />
+                </a>
+            </div>
+            <p>
+                {{ site.footer.text }}
+            </p>
+        </div>
+        <div class="six columns right-cols">
+            <div class="row">
+                <div class="columns">
+                    <h3 class="address">{{ site.footer.address.title }}</h3>
+                    <p>
+                        {% for item in site.footer.address.lines %}
+                           {{ item.line }} <br>
+                        {% endfor %}
+                    </p>
+                </div>
+                <div class="columns">
+                    <h3 class="social">{{ site.footer.social_title }}</h3>
+                    <ul>
+                        {% for item in site.social %}
+                            <li><a href="{{ item.url }}">{{ item.icon|capitalize }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="columns last">
+                    <h3 class="contact">{{ site.footer.contact.title }}</h3>
+                    <ul>
+                        {% for item in site.footer.contact.lines %}
+                            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <p class="copyright">&copy; 2017 NYU Abu Dhabi | Built by <a title="Brooke Hopkins" href="http://www.bnhopkins.com/">Brooke Hopkins</a></p>
+        <div id="go-top">
+            <a class="smoothscroll" title="Back to Top" href="#hero"><i class="icon-up-open"></i></a>
+        </div>
+    </div>
+</footer>
