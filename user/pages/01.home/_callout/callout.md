@@ -1,8 +1,8 @@
 ---
-title: Get Hosting.
+title: Get support.
 buttons:
-  - text: Book a Time
-    url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT            
+  - text: See hours
+    url: hours            
 ---
 ##UNIX Lab Tutors
-Stuck on CS labs? Get <span>peer help</span>.
+Stuck on labs? Get <span>peer help</span>. Unix Lab tutors are available everyday for any computer science question.

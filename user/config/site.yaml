@@ -1,13 +1,13 @@
 title: Unix Lab
 author:
   name: Brooke Hopkins
-  email: 'joe@test.com'
+  email: 'bh1346+unixlab@nyu.edu'
 metadata:
     description: "A student-led computer science project space at **NYU Abu Dhabi**."
 
 # Site settings
 title: UNIX Lab | NYU Abu Dhabi
-email: your-email@domain.com
+email: unixlab.nyuad@gmail.com
 description: "A student-led computer science project space at NYU Abu Dhabi."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -19,12 +19,10 @@ social:
 
 # Main Menu
 menu:
-  - text: Resources
-    link: "resources"
   - text: Tutor Hours
     link: "hours"
-  - text: Events
-    link: "events"
+  - text: Resources
+    link: "resources"
   - text: HackAD
     link: "hackad"
 
@@ -39,5 +37,5 @@ footer:
   contact:
     title: CONTACT US
     lines:
-      - text: unix@unixlab.com
+      - text: unixlab.nyuad@gmail.com
         url: "mailto:someone@woosite.com"

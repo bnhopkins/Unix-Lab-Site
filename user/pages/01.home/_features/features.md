@@ -13,7 +13,7 @@ rows:
     image: feature-image-2.png
     name: responsive
   - title: One on one tutoring.
-    description: Open [hours](hours) for students to come with homework, lab or extra-curricular project questions. 
+    description: Open hours for students to come with homework, lab or extra-curricular project questions.
     description_position: right
     image: feature-image-3.png
     name: cross-browser

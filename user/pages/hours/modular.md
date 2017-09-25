@@ -11,4 +11,5 @@ content:
         dir: asc
         custom:
             - _pricing
+            - _pricing2
 ---

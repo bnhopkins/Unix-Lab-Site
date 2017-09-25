@@ -3,35 +3,26 @@ title: Tutor Hours
 ---
 
 <!-- [HackAD Logo](hackad-logo.jpg?resize=700,100) {.pull-left} -->
-![Sample Image](hackad-logo.jpg) {.center-logo}
+![Sample Image](hackad-logo.jpg) {.title-logo}
 ---
-###***HackAD is the student organization run of Unix Lab with the mission to s***
+<div align="center" margin="20px">
+<h5>A student organization run of Unix Lab with the mission to promote technology at NYUAD and in the UAE </h5>
+</div>
+HackAD is a student group at NYU Abu Dhabi devoted to creating social space for discussion and pursuit of technology. The group meets every week to work on projects and discuss new ideas over pizza or tasty Mana’eesh (popular levantine pastry). Members of HackAD mainly focus on creating software (e.g. NYU Vote - campus wide voting system) and electronics (e.g. Raspberry Pi hackery).
 
-A [link](#),
-**strong text**,
-***em text***
+##Celebrating technology in inclusive ways
 
-###Block Quotes
->Your work is going to fill a large part of your life, and the only way to be truly satisfied is
->to do what you believe is great work. And the only way to do great work is to love what you do.
->If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-<cite>[Steve Jobs](#)</cite>
+HackAD focuses on cutting edge tech, while addressing new topics and attracting a greater diversity of members. We want to create a comfortable environment for people from majors other than Computer Science and Electrical Engineering to explore technology. Together with Women in STEM group at NYU Abu Dhabi, we focus on making technology accessible and open, much in the spirit of the purpose the internet originally served.
 
-###Example Lists
-1. Here is an example
-2. of an ordered list
+##HackNYU 2017 | Abu Dhabi Branch
 
-+ Here is an example
-+ of an unordered list
+For the first time, HackAD brought HackNYU from the Brooklyn and Washington Square campus into Abu Dhabi. Across the NYU network, we had 81 project submissions and 400+ participants. With a two week notice, our Abu Dhabi team put together 36 hours of swag, food, workshops and hackery.
 
----
+![Hacknyu](hacknyu-two.jpg) {.center-img}
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
----
-###Button
-[button](#) {.button}
+In a true hacker way, we decided to create our own swag - stickers, t-shirts and hoodies. We designed the graphics (learning that small things are really hard to print but look great!) and screen printed on some 50 pieces of textile (front and back).
+
+![screen printing](screen-printing.jpg) {.pull-left .side-by-side}
+![Tshirts](tshirts.jpg) {.pull-right .side-by-side}
+
+*Writen by Martin Slosarik*

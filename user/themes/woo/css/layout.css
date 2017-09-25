@@ -17,6 +17,7 @@
    i. Subscribe Section
    j. Footer
    k. lightbox
+   m. hackad
 
    todo: check bug in mobile z-index
 
@@ -186,6 +187,7 @@ ul#nav li.current a { color: #fff; }
 /* Hero Text */
 .hero-text {
 	color: #676e73;
+  /*color: #58687A;*/
    width: 83%;
    text-align: center;
    margin: 54px auto 24px auto;
@@ -214,6 +216,8 @@ ul#nav li.current a { color: #fff; }
 .hero-image img {
    vertical-align: bottom;
    display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 /* Hero CTA Buttons */
@@ -503,6 +507,7 @@ ul.features li:nth-child(even) { }
 }
 
 
+
 /* ------------------------------------------------------------------
 /* h. Testimonials
 /* ------------------------------------------------------------------ */
@@ -747,8 +752,8 @@ footer .footer-logo a {
    margin-left: 3px;
 }
 footer .footer-logo a img {
-   height: 24px;
-   width: 92px;
+   height: 50px;
+   width: auto;
 }
 
 footer .right-cols .columns {
@@ -976,4 +981,35 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus { color: #11ABB0; }
 		right: 1.25em; /* 20 */
 	}
 
+}
+
+
+/* ------------------------------------------------------------------
+/* HackAD
+/* ------------------------------------------------------------------ */
+
+.side-by-side{
+  max-width: 48%;
+}
+.center-img{
+  margin-left: auto;
+  margin-right: auto;
+}
+.small-center{
+  width: 50%
+}
+.center-logo{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
+
+/* ------------------------------------------------------------------
+/* Appointments
+/* ------------------------------------------------------------------ */
+
+#appointments{
+   width: 100%;
+   height: -webkit-fill-available;
 }
