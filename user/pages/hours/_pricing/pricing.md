@@ -1,7 +1,7 @@
 ---
 columns:
   - price1: Megan
-    price2: bh1346@nyu.edu
+    price2: mm7148@nyu.edu
     image: sample-image.jpg
     features:
       - name: Sun: 9am-12pm
@@ -12,7 +12,7 @@ columns:
 
 
   - price1: Jaehurn
-    price2: bh1346@nyu.edu
+    price2: jn1402@nyu.edu
     image: sample-image.jpg
     features:
       - name: Sun: 10:30-11:30am, 4-6pm
@@ -21,7 +21,7 @@ columns:
 
 
   - price1: Aadi
-    price2: bh1346@nyu.edu
+    price2: aj1566@nyu.edu
     image: sample-image.jpg
     features:
       - name: Mon: 5:30-10:30pm
@@ -29,7 +29,7 @@ columns:
 
 
   - price1: Prasant
-    price2: bh1346@nyu.edu
+    price2: prasant.adhikari@nyu.edu
     image: sample-image.jpg
     features:
       - name: Thurs: 2-5pm
