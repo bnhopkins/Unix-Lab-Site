@@ -4,10 +4,8 @@ columns:
     price2: bh1346@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Sun: 9am-12pm
       - name: Mon: 10:30-12:30pm, 1-4pm
       - name: Wed: 10:30-12:30pm, 1-4pm
-      - name: Thurs: 9-11am
 
 
 
