@@ -2,17 +2,17 @@
 columns:
 
   - price1: Abhi
-    price2: bh1346@nyu.edu
+    price2: av1509@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Mon: 7-11pm
+      - name: Mon: 7-10:30pm
       - name: Tues: 12-4pm
-      - name: Wed: 7-11pm
+      - name: Wed: 7-10:30pm
       - name: 
 
 
   - price1: Frederik
-    price2: bh1346@nyu.edu
+    price2: fj414@nyu.edu
     image: sample-image.jpg
     features:
       - name: Mon: 3-5pm
@@ -20,7 +20,7 @@ columns:
 
 
   - price1: Jacqui
-    price2: bh1346@nyu.edu
+    price2: jma587@nyu.edu
     image: sample-image.jpg
     features:
       - name: Sun: 6-8pm

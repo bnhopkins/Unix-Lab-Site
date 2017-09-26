@@ -1,5 +1,5 @@
 ---
-title:  Tutor Hours
+title:  Peer Tutors
 menu: Home
 onpage_menu: true
 body_class: index
