@@ -5,9 +5,9 @@ columns:
     price2: av1509@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Mon: 7-10:30pm
+      - name: Mon: 7:30-10:30pm
       - name: Tues: 12-4pm
-      - name: Wed: 7-10:30pm
+      - name: Wed: 7:30-10:30pm
       - name: 
 
 
