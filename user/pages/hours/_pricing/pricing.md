@@ -30,6 +30,7 @@ columns:
     price2: prasant.adhikari@nyu.edu
     image: sample-image.jpg
     features:
+      - name: Tues: 8-11pm
       - name: Thurs: 2-5pm
       - name: Fri: 4-6pm
       - name: Sat: 4-6pm

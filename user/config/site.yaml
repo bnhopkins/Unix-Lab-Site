@@ -25,6 +25,8 @@ menu:
     link: "resources"
   - text: HackAD
     link: "hackad"
+  - text: events
+    link: "calendar"
 
 footer:
   text: "New York University Abu Dhabi's student-led computer science space created to facilitate student work and collaboration."

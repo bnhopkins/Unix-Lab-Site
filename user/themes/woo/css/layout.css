@@ -1013,3 +1013,21 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus { color: #11ABB0; }
    width: 100%;
    height: -webkit-fill-available;
 }
+
+
+/* Calendar */
+#calendar{
+  width: 50%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+
+  height: -webkit-fill-available;
+}
+#calendar-div{
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+
+  height: -webkit-fill-available;
+}
