@@ -26,7 +26,8 @@ columns:
       - name: Sun: 6-8pm
       - name: Tues: 5:45-7:45pm
       - name: Thurs: 5:45-7:45pm
-      - name: 
+      - name: Fri: 2:00-4:00pm
+      - name: Sat: 2:00-4:00pm
 
 
   - price1: Brooke
