@@ -1,11 +1,11 @@
 ---
 columns:
-  - price1: Megan
-    price2: mm7148@nyu.edu
+  - price1: Simon
+    price2: simon.seo@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Mon: 10:30-12:30pm, 1-4pm
-      - name: Wed: 10:30-12:30pm, 1-4pm
+      - name: Tues: 8:00pm-1:00am
+      - name: Sun: 8:00pm-1:00am
 
 
 
