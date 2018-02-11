@@ -26,14 +26,13 @@ columns:
       - name: Wed: 5:30-10:30pm
 
 
-  - price1: Prasant
-    price2: prasant.adhikari@nyu.edu
+  - price1: Gabor
+    price2: gabor.csapo@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Tues: 8-11pm
-      - name: Thurs: 2-5pm
-      - name: Fri: 4-6pm
-      - name: Sat: 4-6pm
+      - name: Tues: 10-15:00
+      - name: Fri: 13-18:00
+      
 ---
 #Tutor hours.
 Lab monitors are available for any computer science related questions by **appointment** *or* **walk-in**.
