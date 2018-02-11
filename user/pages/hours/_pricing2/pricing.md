@@ -23,11 +23,11 @@ columns:
     price2: jma587@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Sun: 6-8pm
-      - name: Tues: 5:45-7:45pm
-      - name: Thurs: 5:45-7:45pm
-      - name: Fri: 2:00-4:00pm
-      - name: Sat: 2:00-4:00pm
+      - name: Sun: 7:00-9:00pm
+      - name: Mon: 11:00am-1:00pm
+      - name: Tues: 7:00-9:00pm
+      - name: Wed: 11:00am-1:00pm
+      - name: Thu: 7:00-9:00pm
 
 
   - price1: Brooke
