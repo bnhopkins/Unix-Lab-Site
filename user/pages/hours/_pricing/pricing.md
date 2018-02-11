@@ -9,13 +9,12 @@ columns:
 
 
 
-  - price1: Jaehurn
-    price2: jn1402@nyu.edu
+  - price1: Emil
+    price2: ego225@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Sun: 10:30-11:30am, 4-6pm
-      - name: Tues: 10:30-11:30am  
-      - name: Thurs: 10:30-11:30am   
+      - name: Mon: 7:00-9:30pm
+      - name: Sat: 2:00-4:30pm
 
 
   - price1: Aadi
