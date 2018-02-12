@@ -23,12 +23,13 @@ columns:
       - name: Sat: 2:00-4:30pm
 
 
-  - price1: Aadi
-    price2: aj1566@nyu.edu
+  - price1: Abhi
+    price2: av1509@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Mon: 5:30-10:30pm
-      - name: Wed: 5:30-10:30pm
+      - name: Mon: 7:30-11:00pm
+      - name: Wed: 7:30-11:00pm
+      - name: Sat: 8:00-11:00pm
 
 
   - price1: Gabor
