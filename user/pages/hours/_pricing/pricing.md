@@ -37,6 +37,14 @@ columns:
     features:
       - name: Tues: 10-15:00
       - name: Fri: 13-18:00
+      
+  - price1: Yana
+    price2: ydc223@nyu.edu
+    image: sample-image.jpg
+    features:
+      - name: Tues: 16-18:00
+      - name: Wed: 15-18:00
+      - name: Fri: 11-13:00, 13:30 - 16:30 
 
 ---
 #Tutor hours.
