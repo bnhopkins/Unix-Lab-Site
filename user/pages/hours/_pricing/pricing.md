@@ -7,7 +7,13 @@ columns:
       - name: Tues: 8:00pm-1:00am
       - name: Sun: 8:00pm-1:00am
 
-
+  - price1: Guyu
+    price2: gf940@nyu.edu
+    image: sample-image.jpg
+    features:
+      - name: Sun: 4:00pm-6:00pm
+      - name: Tues: 4:00pm-6:00pm
+      - name: Sat: 1:00pm-4:00pm, 7:00-10:00pm
 
   - price1: Emil
     price2: ego225@nyu.edu
@@ -31,7 +37,7 @@ columns:
     features:
       - name: Tues: 10-15:00
       - name: Fri: 13-18:00
-      
+
 ---
 #Tutor hours.
 Lab monitors are available for any computer science related questions by **appointment** *or* **walk-in**.
