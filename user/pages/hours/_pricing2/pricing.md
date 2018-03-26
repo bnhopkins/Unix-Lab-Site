@@ -10,12 +10,13 @@ columns:
       - name: Sat: 8:00-11:00pm
 
 
-  - price1: Frederik
-    price2: fj414@nyu.edu
+  - price1: Yana
+    price2: ydc223@nyu.edu
     image: sample-image.jpg
     features:
-      - name: Mon: 3-5pm
-      - name: Wed: 2:30-5:30pm
+      - name: Mon: 14:30 - 16:30
+      - name: Wed: 15:00 - 18:00
+      - name: Fri: 11:00 - 13:00, 13:30 - 16:30
 
 
   - price1: Jacqui
@@ -34,5 +35,5 @@ columns:
     image: sample-image.jpg
     features:
       - name: Tues: 10:30-12pm
-      
+
 ---

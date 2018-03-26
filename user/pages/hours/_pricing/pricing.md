@@ -1,14 +1,14 @@
 ---
 columns:
-  - price1: Simon
-    price2: simon.seo@nyu.edu
+  - price1: Simon
+    price2: simon.seo@nyu.edu
     image: sample-image.jpg
     features:
       - name: Tues: 8:00pm-1:00am
       - name: Sun: 8:00pm-1:00am
 
-  - price1: Guyu
-    price2: gf940@nyu.edu
+  - price1: Guyu
+    price2: gf940@nyu.edu
     image: sample-image.jpg
     features:
       - name: Sun: 4:00pm-6:00pm
@@ -23,28 +23,12 @@ columns:
       - name: Sat: 2:00-4:30pm
 
 
-  - price1: Aadi
-    price2: aj1566@nyu.edu
-    image: sample-image.jpg
-    features:
-      - name: Mon: 5:30-10:30pm
-      - name: Wed: 5:30-10:30pm
-
-
   - price1: Gabor
     price2: gabor.csapo@nyu.edu
     image: sample-image.jpg
     features:
       - name: Tues: 10-15:00
       - name: Fri: 13-18:00
-      
-  - price1: Yana
-    price2: ydc223@nyu.edu
-    image: sample-image.jpg
-    features:
-      - name: Mon: 14:30 - 16:30
-      - name: Wed: 15:00 - 18:00
-      - name: Fri: 11:00 - 13:00, 13:30 - 16:30 
 
 ---
 #Tutor hours.
