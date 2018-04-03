@@ -12,8 +12,7 @@ columns:
     image: sample-image.jpg
     features:
       - name: Sun: 4:00pm-6:00pm
-      - name: Tues: 4:00pm-6:00pm
-      - name: Sat: 1:00pm-4:00pm, 7:00-10:00pm
+      - name: Tues: 4:00pm-7:00pm
 
   - price1: Emil
     price2: ego225@nyu.edu
